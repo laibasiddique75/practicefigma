@@ -1,0 +1,22 @@
+.bg-custom{
+    background-color: purple;
+}
+.bg-con{
+    z-index: 2;
+    margin-top: -420px;
+    padding-left: 250px;
+}
+.con{
+padding-left: 150px ;
+}
+.content{
+    padding-left: 120px ;
+    margin-top: -130px;
+    }
+    .image{
+        padding-left: 160px;
+    }
+    .text{
+        padding-top: 230px;
+        padding-left: 100px;
+    }
